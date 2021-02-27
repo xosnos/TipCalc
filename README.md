@@ -2,7 +2,7 @@
 
 **TipCalc** is a tip calculator application for iOS.
 
-Submitted by: **Steven Nguyen (XenoStorm)**
+Submitted by: **Steven Nguyen**
 
 Time spent: **2** hour spent in total
 
@@ -34,7 +34,7 @@ GIF created with [Kap](https://getkap.co).
 
 ## License
 
-    Copyright 2020 XenoStorm
+    Copyright 2020 Steven Nguyen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
